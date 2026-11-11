@@ -1,0 +1,19 @@
+{
+ "software": "mixxx",
+ "marca": "Vestax",
+ "modelo": "VCI-400",
+ "nombre": "Mapeo de fábrica de Mixxx",
+ "observaciones": "Mapeo que trae Mixxx de fábrica (autores: Owen Williams y Tobias Rafreider). Incluye el script JavaScript.",
+ "autor": "aasayag-hash",
+ "fecha": "2026-11-11T00:00:00Z",
+ "archivos": [
+  {
+   "nombre": "Vestax VCI-400.midi.xml",
+   "rol": "mapeo"
+  },
+  {
+   "nombre": "Vestax-VCI-400-scripts.js",
+   "rol": "script"
+  }
+ ]
+}

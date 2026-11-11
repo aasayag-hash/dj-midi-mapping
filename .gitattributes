@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.tsi binary
+*.djayMidiMapping -text
+*.xml -text
+*.js -text
+*.csv -text

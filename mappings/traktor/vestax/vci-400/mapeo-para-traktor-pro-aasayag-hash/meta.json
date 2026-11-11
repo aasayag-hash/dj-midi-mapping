@@ -1,0 +1,15 @@
+{
+ "software": "traktor",
+ "marca": "Vestax",
+ "modelo": "VCI-400",
+ "nombre": "Mapeo para Traktor Pro",
+ "observaciones": "Archivo .tsi para el VCI-400. Se importa desde Preferencias > Controller Manager > Import.",
+ "autor": "aasayag-hash",
+ "fecha": "2026-11-11T00:00:00Z",
+ "archivos": [
+  {
+   "nombre": "Vestax VCI-400.tsi",
+   "rol": "mapeo"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "generado": "2026-11-11T23:13:12Z",
+ "mapeos": [
+  {
+   "id": "djay/akai/amx/mapeo-para-djay-pro-aasayag-hash",
+   "software": "djay",
+   "marca": "Akai",
+   "modelo": "AMX",
+   "nombre": "Mapeo para djay Pro",
+   "observaciones": "Mapeo del AKAI AMX para djay Pro. Copiarlo en Música\\djay\\MIDI Mappings y reiniciar djay.",
+   "autor": "aasayag-hash",
+   "fecha": "2026-11-11T00:00:00Z",
+   "puntaje": null,
+   "archivos": [
+    {
+     "nombre": "AKAI AMX.djayMidiMapping",
+     "rol": "mapeo",
+     "bytes": 16210
+    }
+   ],
+   "opiniones": []
+  },
+  {
+   "id": "mixxx/vestax/vci-400/mapeo-de-fabrica-de-mixxx-aasayag-hash",
+   "software": "mixxx",
+   "marca": "Vestax",
+   "modelo": "VCI-400",
+   "nombre": "Mapeo de fábrica de Mixxx",
+   "observaciones": "Mapeo que trae Mixxx de fábrica (autores: Owen Williams y Tobias Rafreider). Incluye el script JavaScript.",
+   "autor": "aasayag-hash",
+   "fecha": "2026-11-11T00:00:00Z",
+   "puntaje": null,
+   "archivos": [
+    {
+     "nombre": "Vestax VCI-400.midi.xml",
+     "rol": "mapeo",
+     "bytes": 88828
+    },
+    {
+     "nombre": "Vestax-VCI-400-scripts.js",
+     "rol": "script",
+     "bytes": 42113
+    }
+   ],
+   "opiniones": []
+  },
+  {
+   "id": "traktor/vestax/vci-400/mapeo-para-traktor-pro-aasayag-hash",
+   "software": "traktor",
+   "marca": "Vestax",
+   "modelo": "VCI-400",
+   "nombre": "Mapeo para Traktor Pro",
+   "observaciones": "Archivo .tsi para el VCI-400. Se importa desde Preferencias > Controller Manager > Import.",
+   "autor": "aasayag-hash",
+   "fecha": "2026-11-11T00:00:00Z",
+   "puntaje": null,
+   "archivos": [
+    {
+     "nombre": "Vestax VCI-400.tsi",
+     "rol": "mapeo",
+     "bytes": 727713
+    }
+   ],
+   "opiniones": []
+  }
+ ]
+}

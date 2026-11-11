@@ -1,0 +1,15 @@
+{
+ "software": "djay",
+ "marca": "Akai",
+ "modelo": "AMX",
+ "nombre": "Mapeo para djay Pro",
+ "observaciones": "Mapeo del AKAI AMX para djay Pro. Copiarlo en Música\\djay\\MIDI Mappings y reiniciar djay.",
+ "autor": "aasayag-hash",
+ "fecha": "2026-11-11T00:00:00Z",
+ "archivos": [
+  {
+   "nombre": "AKAI AMX.djayMidiMapping",
+   "rol": "mapeo"
+  }
+ ]
+}
