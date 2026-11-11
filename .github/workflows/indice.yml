@@ -1,0 +1,32 @@
+name: Regenerar índice
+
+# Para los cambios hechos directamente en main (no por pull request) o a mano.
+on:
+  push:
+    branches: [main]
+    paths: ["mappings/**", "ratings/**", "tools/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  indice:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for intento in 1 2 3 4 5 6; do
+            git fetch origin main
+            git reset --hard origin/main
+            python3 tools/indice.py
+            if git diff --quiet -- index.json; then exit 0; fi
+            git commit -m "Actualizar índice" -- index.json
+            if git push origin HEAD:main; then exit 0; fi
+            sleep $((intento * 3))
+          done
+          exit 1
