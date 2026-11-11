@@ -195,6 +195,7 @@ def main():
     ap.add_argument("--head", required=True)
     ap.add_argument("--autor", required=True)
     a = ap.parse_args()
+    sys.stdout.reconfigure(encoding="utf-8")
     errores = validar(a.base, a.head, a.autor)
     if errores:
         print("El aporte no se pudo aceptar:")
