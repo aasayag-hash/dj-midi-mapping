@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T11:38:34Z",
+ "generado": "2026-11-12T11:39:11Z",
  "mapeos": [
   {
    "id": "djay/akai/amx/mapeo-para-djay-pro-aasayag-hash",
@@ -36,7 +36,7 @@
    "observaciones": "Mapeo que trae Mixxx de fábrica (autores: Owen Williams y Tobias Rafreider). Incluye el script JavaScript.",
    "autor": "aasayag-hash",
    "fecha": "2026-11-11T00:00:00Z",
-   "puntaje": null,
+   "puntaje": 5.0,
    "archivos": [
     {
      "nombre": "Vestax VCI-400.midi.xml",
@@ -49,7 +49,14 @@
      "bytes": 42113
     }
    ],
-   "opiniones": []
+   "opiniones": [
+    {
+     "usuario": "aasayag-hash",
+     "observaciones": "probado ok",
+     "fecha": "2026-11-12T11:38:51Z",
+     "puntaje": 5
+    }
+   ]
   },
   {
    "id": "traktor/vestax/vci-400/mapeo-para-traktor-pro-aasayag-hash",
