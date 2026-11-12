@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T11:39:51Z",
+ "generado": "2026-11-12T19:45:05Z",
  "mapeos": [
   {
    "id": "djay/akai/amx/mapeo-para-djay-pro-aasayag-hash",
@@ -26,6 +26,30 @@
      "puntaje": 5
     }
    ]
+  },
+  {
+   "id": "mixxx/numark/ns7iii/numark-ns7iii-para-mixxx-aasayag-hash",
+   "software": "mixxx",
+   "marca": "Numark",
+   "modelo": "NS7III",
+   "nombre": "Numark NS7III para Mixxx",
+   "observaciones": "mapeo de numark ns7III sin pantallas",
+   "autor": "aasayag-hash",
+   "fecha": "2026-11-12T19:44:38Z",
+   "puntaje": 5.0,
+   "archivos": [
+    {
+     "nombre": "Numark NS7III.midi.xml",
+     "rol": "mapeo",
+     "bytes": 201094
+    },
+    {
+     "nombre": "Numark-NS7III-scripts.js",
+     "rol": "script",
+     "bytes": 70672
+    }
+   ],
+   "opiniones": []
   },
   {
    "id": "mixxx/vestax/vci-400/mapeo-de-fabrica-de-mixxx-aasayag-hash",
