@@ -32,12 +32,15 @@ def opiniones(id_mapeo):
         p = dato.get("puntaje")
         if isinstance(p, int) and not isinstance(p, bool) and 1 <= p <= 10:
             puntajes.append(p)
+        else:
+            p = None
         obs = dato.get("observaciones")
         if isinstance(obs, str) and obs.strip():
             textos.append({
                 "usuario": str(dato.get("usuario", "")),
                 "observaciones": obs.strip(),
                 "fecha": str(dato.get("fecha", "")),
+                "puntaje": p,
             })
     promedio = round(sum(puntajes) / len(puntajes), 1) if puntajes else None
     return promedio, textos
