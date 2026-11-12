@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-11T23:13:12Z",
+ "generado": "2026-11-12T11:38:34Z",
  "mapeos": [
   {
    "id": "djay/akai/amx/mapeo-para-djay-pro-aasayag-hash",
@@ -10,7 +10,7 @@
    "observaciones": "Mapeo del AKAI AMX para djay Pro. Copiarlo en Música\\djay\\MIDI Mappings y reiniciar djay.",
    "autor": "aasayag-hash",
    "fecha": "2026-11-11T00:00:00Z",
-   "puntaje": null,
+   "puntaje": 5.0,
    "archivos": [
     {
      "nombre": "AKAI AMX.djayMidiMapping",
@@ -18,7 +18,14 @@
      "bytes": 16210
     }
    ],
-   "opiniones": []
+   "opiniones": [
+    {
+     "usuario": "aasayag-hash",
+     "observaciones": "funciona",
+     "fecha": "2026-11-12T11:38:11Z",
+     "puntaje": 5
+    }
+   ]
   },
   {
    "id": "mixxx/vestax/vci-400/mapeo-de-fabrica-de-mixxx-aasayag-hash",
