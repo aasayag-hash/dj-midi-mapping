@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MixxxControllerPreset mixxxVersion="2.4.0+" schemaVersion="1">
+  <info>
+    <name>DJBM TraktorKontrol Z2Default</name>
+    <author>DJ Backup Manager</author>
+    <description>Convertido desde Traktor.Kontrol Z2.Default</description>
+  </info>
+  <controller id="DJBM TraktorKontrol Z2Default">
+    <controls />
+    <outputs />
+  </controller>
+</MixxxControllerPreset>
