@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T11:39:11Z",
+ "generado": "2026-11-12T11:39:51Z",
  "mapeos": [
   {
    "id": "djay/akai/amx/mapeo-para-djay-pro-aasayag-hash",
@@ -67,7 +67,7 @@
    "observaciones": "Archivo .tsi para el VCI-400. Se importa desde Preferencias > Controller Manager > Import.",
    "autor": "aasayag-hash",
    "fecha": "2026-11-11T00:00:00Z",
-   "puntaje": null,
+   "puntaje": 6.0,
    "archivos": [
     {
      "nombre": "Vestax VCI-400.tsi",
@@ -75,7 +75,14 @@
      "bytes": 727713
     }
    ],
-   "opiniones": []
+   "opiniones": [
+    {
+     "usuario": "aasayag-hash",
+     "observaciones": "funcionando ok",
+     "fecha": "2026-11-12T11:39:31Z",
+     "puntaje": 6
+    }
+   ]
   }
  ]
 }
