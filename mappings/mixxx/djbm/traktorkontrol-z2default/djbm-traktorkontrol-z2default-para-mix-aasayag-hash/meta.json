@@ -1,0 +1,15 @@
+{
+  "software": "mixxx",
+  "marca": "DJBM",
+  "modelo": "TraktorKontrol Z2Default",
+  "nombre": "DJBM TraktorKontrol Z2Default para Mixxx",
+  "observaciones": "no probado",
+  "autor": "aasayag-hash",
+  "fecha": "2026-11-12T19:57:11Z",
+  "archivos": [
+    {
+      "nombre": "DJBM TraktorKontrol Z2Default.midi.xml",
+      "rol": "mapeo"
+    }
+  ]
+}
