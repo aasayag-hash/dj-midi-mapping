@@ -1,0 +1,15 @@
+{
+  "software": "djay",
+  "marca": "Akai",
+  "modelo": "Pro AFX",
+  "nombre": "Akai Pro AFX para djay Pro",
+  "observaciones": "",
+  "autor": "aasayag-hash",
+  "fecha": "2026-11-13T01:27:21Z",
+  "archivos": [
+    {
+      "nombre": "AKAFX.djayMidiMapping",
+      "rol": "mapeo"
+    }
+  ]
+}
