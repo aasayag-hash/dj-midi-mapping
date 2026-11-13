@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-12T19:57:41Z",
+ "generado": "2026-11-13T01:27:43Z",
  "mapeos": [
   {
    "id": "djay/akai/amx/mapeo-para-djay-pro-aasayag-hash",
@@ -26,6 +26,25 @@
      "puntaje": 5
     }
    ]
+  },
+  {
+   "id": "djay/akai/pro-afx/akai-pro-afx-para-djay-pro-aasayag-hash",
+   "software": "djay",
+   "marca": "Akai",
+   "modelo": "Pro AFX",
+   "nombre": "Akai Pro AFX para djay Pro",
+   "observaciones": "",
+   "autor": "aasayag-hash",
+   "fecha": "2026-11-13T01:27:21Z",
+   "puntaje": null,
+   "archivos": [
+    {
+     "nombre": "AKAFX.djayMidiMapping",
+     "rol": "mapeo",
+     "bytes": 3256
+    }
+   ],
+   "opiniones": []
   },
   {
    "id": "mixxx/djbm/traktorkontrol-z2default/djbm-traktorkontrol-z2default-para-mix-aasayag-hash",
