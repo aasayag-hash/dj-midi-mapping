@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-13T01:27:43Z",
+ "generado": "2026-11-13T01:28:39Z",
  "mapeos": [
   {
    "id": "djay/akai/amx/mapeo-para-djay-pro-aasayag-hash",
@@ -42,6 +42,30 @@
      "nombre": "AKAFX.djayMidiMapping",
      "rol": "mapeo",
      "bytes": 3256
+    }
+   ],
+   "opiniones": []
+  },
+  {
+   "id": "mixxx/akai/afx/akai-afx-para-mixxx-aasayag-hash",
+   "software": "mixxx",
+   "marca": "akai",
+   "modelo": "AFX",
+   "nombre": "akai AFX para Mixxx",
+   "observaciones": "",
+   "autor": "aasayag-hash",
+   "fecha": "2026-11-13T01:28:16Z",
+   "puntaje": null,
+   "archivos": [
+    {
+     "nombre": "DJBM AKAFX.midi.xml",
+     "rol": "mapeo",
+     "bytes": 3960
+    },
+    {
+     "nombre": "DJBM AKAFX-scripts.js",
+     "rol": "script",
+     "bytes": 2159
     }
    ],
    "opiniones": []
